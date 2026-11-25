@@ -1,12 +1,49 @@
-## Hi there 👋
+# THE RED CORP
 
-<!--
+**Building worlds. Creating experiences.**
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## About Us
+
+The Red Corp is a small independent team of technology enthusiasts, brought together by a shared passion for creativity, technology and video games.
+
+We work on building our own fictional universe, developing its lore, history and identity, while creating games and experiences that bring it to life.
+
+Driven by curiosity and creativity, we aim to combine our technical interests with our passion for worldbuilding and game development.
+
+## What We Do
+
+### Universe & Lore
+
+We are building an original fictional universe inspired by Dark Fantasy and Post-Apocalyptic themes, featuring its own history, mythology, characters and stories.
+
+### Game Development
+
+We develop games set within our universe, with the ambition of creating interconnected experiences that expand its world and lore.
+
+### Technology
+
+We are passionate about technology, software and digital infrastructure. We also maintain our own private services and hosting infrastructure to support our activities.
+
+## Our Team
+
+We are a small team driven by shared interests, curiosity and the desire to create something of our own.
+
+We believe in learning, experimenting, building and improving together.
+
+## Our Vision
+
+Our goal is simple: **build something meaningful together.**
+
+Whether through technology, games or storytelling, we want to develop projects that reflect our creativity and shared passion.
+
+---
+
+<p align="center">
+
+**THE RED CORP**
+
+*Building beyond boundaries.*
+
+</p>
